@@ -1,11 +1,5 @@
 <div align="center">
 
-```
-╭──────────────────────────────────────────────────────╮
-│  ●  ●  ●    claude code  —  saksham-shr               │
-╰──────────────────────────────────────────────────────╯
-```
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&pause=1000&color=F85454&center=true&vCenter=true&width=500&lines=Hello%2C+World!;I'm+Saksham+Sharma.)](https://git.io/typing-svg)
 
 Bengaluru, India · Building Braevity
